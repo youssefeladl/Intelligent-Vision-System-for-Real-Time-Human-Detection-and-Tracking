@@ -11,7 +11,7 @@ It automatically records events, logs structured metadata, and supports **Webhoo
 ## Real Application Preview
 Below is an actual screenshot from the real system running through Streamlit during a live detection test:
 <p align="center">
-  <img width="584" height="596" alt="live (3)" src="https://github.com/user-attachments/assets/daa052f7-a667-42eb-a210-e9276be993ce" /> width="900">
+  <img width="584" height="596" alt="live (3)" src="https://github.com/user-attachments/assets/daa052f7-a667-42eb-a210-e9276be993ce" width="900">
 </p>
 This framework is engineered for real deployments such as security cameras, access-control systems, restricted-area monitoring, and future AI-driven robotic camera automation.
 
