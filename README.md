@@ -10,6 +10,8 @@ It automatically records events, logs structured metadata, and supports **Webhoo
 
 This framework is engineered for real deployments such as security cameras, access-control systems, restricted-area monitoring, and future AI-driven robotic camera automation.
 
+<img width="584" height="1015" alt="live (3)" src="https://github.com/user-attachments/assets/0c870c7f-8187-4ea8-af38-86905781dd89" />
+
 ---
 
 ## Key Features
