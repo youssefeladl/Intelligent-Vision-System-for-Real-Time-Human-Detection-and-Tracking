@@ -1,5 +1,6 @@
 # AI Human Detection & Tracking System  
 High-Accuracy Person Identification • Multi-Target Tracking • Automated Recording & Alerts
+
 <img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 02_40_53 PM" src="https://github.com/user-attachments/assets/939e8119-8a26-4318-be2b-dbd8b69484e8" />
 ## Overview
 This project implements a high-precision artificial intelligence system for **real-time human detection and persistent multi-target tracking**.  
