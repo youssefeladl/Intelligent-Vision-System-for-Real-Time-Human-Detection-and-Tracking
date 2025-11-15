@@ -1,8 +1,6 @@
 # AI Human Detection & Tracking System  
 High-Accuracy Person Identification • Multi-Target Tracking • Automated Recording & Alerts
-
-<img width="584" height="596" alt="live (3)" src="https://github.com/user-attachments/assets/daa052f7-a667-42eb-a210-e9276be993ce" />
-
+<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 02_40_53 PM" src="https://github.com/user-attachments/assets/939e8119-8a26-4318-be2b-dbd8b69484e8" />
 ## Overview
 This project implements a high-precision artificial intelligence system for **real-time human detection and persistent multi-target tracking**.  
 The pipeline is built using a custom-trained **YOLO model** integrated with a **Streamlit interface**, and is designed for professional-grade security, monitoring, and intelligent camera applications.
@@ -10,6 +8,11 @@ The pipeline is built using a custom-trained **YOLO model** integrated with a **
 The system delivers **97%+ detection accuracy**, performs **multi-frame verification** before confirming a target, and maintains **stable tracking IDs** for every individual.  
 It automatically records events, logs structured metadata, and supports **Webhook** and **Email (SMTP)** notifications.
 
+## Real Application Preview
+Below is an actual screenshot from the real system running through Streamlit during a live detection test:
+<p align="center">
+  <img width="584" height="596" alt="live (3)" src="https://github.com/user-attachments/assets/daa052f7-a667-42eb-a210-e9276be993ce" /> width="900">
+</p>
 This framework is engineered for real deployments such as security cameras, access-control systems, restricted-area monitoring, and future AI-driven robotic camera automation.
 
 
